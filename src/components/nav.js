@@ -66,6 +66,9 @@ class Nav extends Component {
             </div>
           </div>
         </nav>
+
+        <div className="column-style-top"></div>
+        <div className="column-style-bottom"></div>
       </>
     );
   }

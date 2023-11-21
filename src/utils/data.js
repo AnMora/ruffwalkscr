@@ -62,6 +62,8 @@ const Data = {
       Title: "¡Tu mascota en las mejores manos!",
       Information: "¡Sera un gusto atenderle en cualquiera de nuestros servicios!",
       Service: "Recreacion - Ejercicio - Socializacion",
+      Whoweam: "Quienes somos?",
+      Explain: "Somos RuffWalksCR, amantes de los caninos, nos sentimos en la capacidad de brindar nuestros servicios para sus mascotas, dando el mejor servicio, atencion y cuidado que se merecen.", 
       MoreInfo: "Nuestros servicios"
     }
   ],
